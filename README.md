@@ -1,0 +1,1 @@
+Patterns print in Java 
